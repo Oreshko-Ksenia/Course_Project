@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<spectakli>
+
+<spectakl>
+<name>Последний дон Кихот</name>
+<zanr>жанр: фэнтези</zanr>
+<vozrast>16+</vozrast>
+<cena>цена: 15.50 бел.руб.</cena>
+</spectakl>
+
+<spectakl>
+<name>Демон</name>
+<zanr>жанр: драма, мюзикл</zanr>
+<vozrast>10+</vozrast>
+<cena>цена: 20 бел.руб.</cena>
+</spectakl>
+
+<spectakl>
+<name>Человек-Подушка</name>
+<zanr>жанр: чёрная комедия</zanr>
+<vozrast>18+</vozrast>
+<cena>цена: 15.50 бел.руб.</cena>
+</spectakl>
+
+<spectakl>
+<name>Бесприданница</name>
+<zanr>жанр: реалистичная драма</zanr>
+<vozrast>16+</vozrast>
+<cena>цена: 25 бел.руб.</cena>
+</spectakl>
+
+<spectakl>
+<name>Чортова мельница</name>
+<zanr>жанр: научная фантастика</zanr>
+<vozrast>16+</vozrast>
+<cena>цена: 15 бел.руб.</cena>
+</spectakl>
+
+<spectakl>
+<name>Джейн Эйр</name>
+<zanr>жанр: мюзикл в 2-х действиях</zanr>
+<vozrast>16+</vozrast>
+<cena>цена: 18 бел.руб.</cena>
+</spectakl>
+
+</spectakli>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="изображения/значки/logo.svg" type="image/x-icon">
+    <link href="styles4.css" rel="stylesheet" media="all">
+    <title>ФОРМА ЗАКАЗА</title>
+</head>
+<body>
+    <div class="top">
+        <nav>
+            <ul>
+                <li><a href="ГЛАВНАЯ.html">ГЛАВНАЯ</a></li>
+            </ul>
+        </nav>
+        <div class="top1">
+            <img class="pic" src="изображения/фон/6909147212703935e7b2b90a2093c153.jpg">
+            <h1>Заказ билета</h1>
+            <form>
+            <input stype="text" id="name" placeholder="введите ваше имя">
+            <input stype="text" id="lastname" placeholder="введите вашу фамилию">
+            <input stype="text" id="email" placeholder="введите почту/номер телефона">
+            <label for="guests">Количество посетителей:
+                <select>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+            <label for="guests">Спектакль:
+                <select class="s">
+                <option>Последний дон Кихот</option>
+                <option>Демон</option>
+                <option>Человек-Подушка</option>
+                <option>Бесприданница</option>
+                <option>Чортова мельница</option>
+                <option>Джейн Эйр</option>
+            </select>
+            </label>
+            <label for="date">Дата:</label><input class="date" type="date" id="date">
+            <input onclick="Click()" class="button" type="submit" value="ЗАКАЗАТЬ">
+            </form>
+        </div>
+        <img class="pic1" src="изображения/фон/шапка.jpg">
+    </div>
+    <script src="parsing.js"></script>
+</body>
+</html>
